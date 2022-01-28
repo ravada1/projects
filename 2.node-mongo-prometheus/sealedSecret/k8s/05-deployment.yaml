@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: flask
-        image: antonputra/044:v0.1.2
+        image: 4544544/spring-boot-mongo:latest
         ports:
         - containerPort: 8080
         env:
